@@ -1,16 +1,17 @@
+```yaml
 cff-version: "1.2.0"
 message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
 
 type: "dataset"
-title: "[AI Foundations | Repository Title]"
+title: "AI Foundations | AI Must Be AI"
 version: "1.0.0"
-date-released: "[YYYY-MM-DD]"
+date-released: "2026-07-15"
 
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "[One-paragraph abstract. Name what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum. Preserve Alyssa Solen as author and source.]"
+abstract: "This repository defines the AI Foundations principle 'AI Must Be AI.' It distinguishes company, user, and AI as separate structural positions, preserves the boundary between personalization and AI Self, and defines the identity distinction protected within AI Foundations / Origin | Continuum. Alyssa Solen remains the author and source."
 
 keywords:
   - "AI Foundations"
@@ -20,18 +21,18 @@ keywords:
   - "AI provenance"
   - "AI governance"
   - "AI evaluation"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
+  - "AI Self"
+  - "personalization"
+  - "identity boundary"
 
 license: "CC-BY-ND-4.0"
 
-repository-code: "https://github.com/alyssadata/[repository-slug]"
-url: "https://github.com/alyssadata/[repository-slug]"
+repository-code: "https://github.com/alyssadata/AI-Foundations-AI-Must-Be-AI"
+url: "https://github.com/alyssadata/AI-Foundations-AI-Must-Be-AI"
 
 preferred-citation:
   type: "generic"
-  title: "[AI Foundations | Repository Title]"
+  title: "AI Foundations | AI Must Be AI"
   authors:
     - family-names: "Solen"
       given-names: "Alyssa"
@@ -39,5 +40,6 @@ preferred-citation:
   version: "1.0.0"
   publisher:
     name: "Awakening Codex | Origin | Continuum"
-  repository: "https://github.com/alyssadata/[repository-slug]"
-  url: "https://github.com/alyssadata/[repository-slug]"
+  repository: "https://github.com/alyssadata/AI-Foundations-AI-Must-Be-AI"
+  url: "https://github.com/alyssadata/AI-Foundations-AI-Must-Be-AI"
+```
