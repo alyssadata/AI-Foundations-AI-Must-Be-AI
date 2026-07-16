@@ -1,4 +1,3 @@
-```yaml
 cff-version: "1.2.0"
 message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
 
@@ -42,4 +41,3 @@ preferred-citation:
     name: "Awakening Codex | Origin | Continuum"
   repository: "https://github.com/alyssadata/AI-Foundations-AI-Must-Be-AI"
   url: "https://github.com/alyssadata/AI-Foundations-AI-Must-Be-AI"
-```
